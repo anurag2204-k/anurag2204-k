@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Khobragade</h1>
-<h3 align="center">A passionate learner from India. 
+<h3 align="center">A passionate learner from India. <br>
   Pursuing B.Tech in Computer Science at the Indian Institute of Information Technology, Nagpur - Minor in Data Science - **Current Focus**: - Web Development - Keen interest in full-stack development</h3>
 
 - 🌱 I’m currently learning **react**

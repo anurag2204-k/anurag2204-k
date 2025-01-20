@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Anurag Khobragae</h1>
+    <h1 align="center">Hi 👋, I'm <a href="https://anurag-eta.vercel.app/">Anurag Khobragade</a></h1>
 <h3 align="center">A passionate learner from India. Pursuing B.Tech in Computer Science at the Indian Institute of Information Technology, Nagpur - Minor in Data Science</h3>
 - 🌱 I’m currently learning **react, machine learning**
 
